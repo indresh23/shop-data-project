@@ -38,3 +38,6 @@ It performs data cleaning, transformation, analysis, and generates business insi
 ## 🚀 How to Run
 ```bash
 python data_pipeline.py
+## 📊 Output Screenshot
+
+![ETL Pipeline Output](output.png)
