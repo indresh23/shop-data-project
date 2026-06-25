@@ -1,0 +1,19 @@
+store_id,store_name,city,region
+S001,Chicago Store,Chicago,Central
+S002,Seattle Store,Seattle,West
+S003,Richmond Store,Richmond,South
+S004,San Francisco Store,San Francisco,West
+S005,Springdale Store,Springdale,South
+S006,Los Angeles Store,Los Angeles,West
+S007,Middletown Store,Middletown,East
+S008,Grand Rapids Store,Grand Rapids,Central
+S009,Hialeah Store,Hialeah,South
+S010,Philadelphia Store,Philadelphia,East
+S011,Atlanta Store,Atlanta,South
+S012,San Antonio Store,San Antonio,Central
+S013,Long Beach Store,Long Beach,East
+S014,Paterson Store,Paterson,East
+S015,Louisville Store,Louisville,South
+S016,Hampton Store,Hampton,South
+S017,Houston Store,Houston,Central
+S018,Toledo Store,Toledo,East
